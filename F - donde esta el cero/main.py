@@ -10,8 +10,9 @@ if __name__ == '__main__':
             cuenta_cifras = i
             cuenta_posiciones = 1
             bueno = False
+            next = test_numero
             while True:
-                next = test_numero +1
+                next += 1
                 n_cad = cadena[cuenta_cifras:cuenta_cifras+len(str(next))]
                 if n_cad.startswith('0'):
                     print cuenta_posiciones
@@ -24,4 +25,7 @@ if __name__ == '__main__':
                     cuenta_posiciones += 1
             if bueno:
                 break
-        cadena = raw_input()
+        try:
+            cadena = raw_input()
+        except EOFError:
+            break
