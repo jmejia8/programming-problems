@@ -1,0 +1,9 @@
+Tournament: Capablanca
+Number of players: 5
+New ratings:
+Delgado 2766
+Quesada 2637
+Gonzalez 2460
+Bruzon 2664
+Arencibia 2536
+Media Elo: 2617

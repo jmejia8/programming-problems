@@ -1,0 +1,6 @@
+Capablanca 5
+Delgado 2700 3.6 0.3 20
+Quesada 2639 2.6 2.7 20
+Gonzalez 2520 1.6 3.6 30
+Bruzon 2698 1.4 4.8 10
+Arencibia 2526 2.9 1.9 10
