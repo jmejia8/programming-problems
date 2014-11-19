@@ -1,7 +1,7 @@
 ACM-preparacion1
 ================
 
-Problemas de preparación de la ACM
+Problemas de preparación para la ACM, obtenidos del COJ
 
 Las carpetas tienen por nombre el ID del problema seguido del titulo, separados por espacios:
 
