@@ -1,0 +1,7 @@
+5
+south north south north south
+1 east 3 4 6 8
+3 east 2 4 8
+5 west 3 2 4 8
+7 east 4 2 4 8 10
+9 east 2 2 8
